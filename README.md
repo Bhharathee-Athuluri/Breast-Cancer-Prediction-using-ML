@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction-using-ML
-This repository contains the project "Breast Cancer Prediction using Machine Learning" which is done as a part of task under Impacteers Club of VRSEC.
+This repository contains the project "Breast Cancer Prediction using Machine Learning" which is done as a part of a task under Impacteers Club of VRSEC.
 
 There are two .ipynb files in this repository. Both of them are regarding 'Breast Cancer Prediction' but are not related to each other in any other way. The .csv files are the datasets used for training and testing the machine learning models(i.e., they are used in the .ipynb files). 
 
