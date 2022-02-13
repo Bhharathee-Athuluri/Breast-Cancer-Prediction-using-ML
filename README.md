@@ -8,6 +8,6 @@ There are two .ipynb files in this repository. Both of them are regarding 'Breas
   
 Both the .ipynb files are quite similar except for the datasets used. We have used two different datasets because both of them use different attributes to predict Breast Cancer and the dimensions of the datasets are also quite different. Both the .ipynb files are run on Google Colab. 
 
-The accuracy obtained for these models vary each time you run it. This repository contains updated commit with the best results obtained.
+**The accuracy obtained for the model vary each time you run it**. This repository contains updated commit with the best results obtained.
 
-A detailed description of the project can be read from the documentation provided in "Project Documentation.pdf"
+A detailed description of the project can be read from the documentation provided in **Project Documentation.pdf**
